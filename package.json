@@ -1,5 +1,5 @@
 {
-  "name": "jobber-shared",
+  "name": "@CodeShareCW/jobber-shared",
   "version": "0.0.1",
   "license": "MIT",
   "types": "./src/index.d.ts",
