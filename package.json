@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.26.0",
+    "@codesharecw/jobber-shared": "^0.0.1",
     "@elastic/elasticsearch": "^8.13.0",
     "cloudinary": "^2.1.0",
     "express": "^4.19.2",
